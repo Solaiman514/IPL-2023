@@ -4,27 +4,27 @@
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099004/hd_akamai_androidmob_hevc_hin_ipl01/master.m3u8
 
-English
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",English
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2098999/hd_akamai_androidmob_hevc_insider_ipl01/master.m3u8
 
-Tamil
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Tamil
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_hevc_tam_ipl01/master.m3u8
 
-Telugu
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Telugu
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099012/hd_akamai_androidmob_hevc_tel_ipl01/master.m3u8
 
-Kannada
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Kannada
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099006/hd_akamai_androidmob_hevc_kan_ipl01/master.m3u8
 
-Bhojpuri
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Bhojpuri
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099088/hd_akamai_androidmob_hevc_bhoj_ipl01/master.m3u8
 
-Marathi
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Marathi
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099094/hd_akamai_androidmob_hevc_mar_ipl01/master.m3u8
 
