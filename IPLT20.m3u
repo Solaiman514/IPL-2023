@@ -28,11 +28,11 @@ https://sports-south-test.jiocinema.com/hls/live/2099088/hd_akamai_androidmob_he
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099094/hd_akamai_androidmob_hevc_mar_ipl01/master.m3u8
 
-Gujarati
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Gujarati
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099018/hd_akamai_androidmob_hevc_guj_ipl01/master.m3u8
 
-Bengali
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Bengali
 #EXTVLCOPT:network-caching=1000
 https://sports-south-test.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_hevc_ben_ipl01/master.m3u8
 
