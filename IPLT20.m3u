@@ -45,48 +45,48 @@ https://sports-south-test.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_he
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8
 
-English
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",English
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_UHD_IDC_BTS/Fallback/index.m3u8
 
-Gujrati
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Gujrati
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Guj_UHD_IDC_BTS/Fallback//index.m3u8
 
-Bengali
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Bengali
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_UHD_IDC_BTS/Fallback/index.m3u8
 
-Tamil
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Tamil
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tam_UHD_IDC_BTS/Fallback/index.m3u8
 
-Telugu
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Telugu
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_UHD_IDC_BTS/Fallback/index.m3u8
 
-Malayalam
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Malayalam
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mal_UHD_IDC_BTS/Fallback/index.m3u8
 
-Kannada
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Kannada
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Kan_UHD_IDC_BTS/Fallback/index.m3u8
 
-Marathi
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Marathi
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mar_UHD_IDC_BTS/Fallback/index.m3u8
 
-Bhojpuri
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Bhojpuri
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Bhoj_UHD_IDC_BTS/Fallback/index.m3u8
 
-Odia
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Odia
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Odia_UHD_IDC_BTS/Fallback/index.m3u8
 
-Punjabi
-
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Punjabi
+#EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Punj_UHD_IDC_BTS/Fallback/index.m3u8
 
 
