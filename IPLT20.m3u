@@ -44,26 +44,44 @@ https://sports-south-test.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_he
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",Hindi
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Hindi
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",English
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_UHD_IDC_BTS/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",English
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",Gujrati
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Guj_UHD_IDC_BTS/Fallback//index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Gujrat
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",Bengali
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_UHD_IDC_BTS/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Bangali
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",Tamil
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tam_UHD_IDC_BTS/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Tamil
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",Telugu
 #EXTVLCOPT:network-caching=1000
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_UHD_IDC_BTS/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL-T20",Telugu
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 tvg-logo="" group-title="IPL-T20",Malayalam
 #EXTVLCOPT:network-caching=1000
